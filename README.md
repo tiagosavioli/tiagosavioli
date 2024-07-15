@@ -1,4 +1,4 @@
-### Oi Gente 👋
+### Seja Bem Vindo 👋
 
 Meu nome é Tiago, sou um desenvolvedor FullStack iniciante e criador de projeto Open Source de noite. Amo tecnologias Mobile e desenvovimento de Sistemas.
 
