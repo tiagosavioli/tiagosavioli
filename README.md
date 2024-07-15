@@ -5,10 +5,10 @@ Meu nome é Tiago, sou um desenvolvedor FullStack iniciante e criador de projeto
 Meus Conhecimentos:
 - NodeJs para desenvolvimento backend
 - React Native para aplicativos
-- Mysql + Amazon EC2 para armazenamento e banco de dados
-- EC2 para produção
+- Mysql + Amazon S3 para armazenamento e banco de dados
+- Amazon EC2 para produção
 - Redis para cache 
-- MongoDB para banco de dados de chaves
+- MongoDB para banco de dados de chave valor
 - RabbitMQ para filas
 - Amazon SNS para Notificações de Push
 
