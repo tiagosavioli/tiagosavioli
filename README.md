@@ -20,4 +20,4 @@ Meus Conhecimentos:
  
 ---- 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Circle-Company&repo=Circle-App&description)](https://github.com/Circle-Company/Circlep)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Circle-Company&repo=Circle-App&description)](https://github.com/Circle-Company/Circle-App)
