@@ -1,6 +1,6 @@
 ### Seja Bem Vindo 👋
 
-Meu nome é Tiago, sou um desenvolvedor FullStack iniciante e criador de projeto Open Source de noite. Amo tecnologias Mobile e desenvovimento de Sistemas.
+Meu nome é Tiago, sou um desenvolvedor FullStack e criador de projeto Open Source de noite. Amo tecnologias Mobile e desenvovimento de Sistemas.
 
 Meus Conhecimentos:
 - NodeJs para desenvolvimento backend
