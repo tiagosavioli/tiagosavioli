@@ -10,7 +10,7 @@ Meus Conhecimentos:
 - Redis para cache 
 - MongoDB para banco de dados de chave valor
 - RabbitMQ para filas
-- Amazon SNS para Notificações de Push
+- Firebase Cloud Messaging para Notificações de Push
 
 
 ![Cover (2)](https://github.com/tiagosavioli/tiagosavioli/blob/bf6bb095107d902c2fba9d4e65ac989c7389768b/Procurando%20por%20Contribu%C3%ADdores.png)
