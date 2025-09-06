@@ -1,8 +1,6 @@
-### Seja Bem Vindo <img src= "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width= "16px"> </img>
+### Desenvolvedor Backend Javascript (NodeJs)
 
-Meu nome é Tiago, sou um desenvolvedor FullStack e criador de projeto Open Source de noite. Amo tecnologias Mobile e desenvovimento de Sistemas.
-
-Meus Conhecimentos:
+#### Meus Conhecimentos:
 - NodeJs para desenvolvimento backend
 - React Native para aplicativos
 - Mysql + Amazon S3 para armazenamento e banco de dados
